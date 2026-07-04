@@ -1,17 +1,51 @@
-# Power BI Dashboard – E-commerce Store Dataset
+# Power BI Ecommerce Store Dashboard
+
+## Dataset
+
+E-commerce store dataset containing order-level and transaction-level information such as order date, customer name, state, city, amount, profit, quantity, category, sub-category and payment mode.
 
 ## Project Overview
 
-A dynamic Power BI dashboard designed to analyze overall business performance, uncover sales trends, identify top products/customers and provide a dynamic exploration of key metrics using DAX measures, calculated columns, interactive visuals and drill-through features.
+This project presents an interactive Power BI dashboard built to analyze e-commerce store sales performance. The dashboard helps track key business metrics such as total sales, profit, quantity sold, top customers, product categories, payment modes and regional performance.
 
-## Tools
+The goal of this project is to practice business intelligence reporting, data visualization, dashboard design and decision-focused insight presentation using Power BI.
+
+## Dashboard Features
+
+- Sales performance overview
+- Profit analysis
+- Quantity sold analysis
+- Category-wise sales analysis
+- Sub-category performance analysis
+- State and city-wise analysis
+- Customer-wise sales analysis
+- Payment mode analysis
+- Interactive filters and slicers
+- Dashboard screenshots included
+- Power BI `.pbix` file included
+
+## Tech Stack
 
 - Power BI
-- DAX (Data Analysis Expressions)
+- DAX
+- CSV
+- Data Visualization
+- Business Intelligence
 
-## Key Outcomes
+## Summary of Insights
 
-- Built a fully interactive and insight-driven dashboard
-- Improved understanding of sales performance and user trends
-- Strengthened skills in DAX and data visualization
-- Enhanced ability to present data in a decision-friendly format
+- The dashboard provides a clear overview of sales, profit and quantity performance.
+
+- Category and sub-category visuals help identify high-performing product groups.
+
+- State and city-level analysis helps understand regional sales distribution.
+
+- Customer-wise analysis highlights valuable customers.
+
+- Payment mode visuals help understand customer payment preferences.
+
+- Interactive filters make the dashboard useful for business decision-making.
+
+## License
+
+This project is licensed under the MIT License.
